@@ -1,0 +1,896 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pad",
+				"pad	CSS - padding: 0;"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"upp",
+				"uppercase"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"array",
+				"array_name"
+			],
+			[
+				"cha",
+				"characters"
+			],
+			[
+				"tuts",
+				"tuts_sites"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"path",
+				"pathinfo()"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"fw",
+				"fwrite"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"_",
+				"_COOKIE"
+			],
+			[
+				"setc",
+				"setcookie()"
+			],
+			[
+				"mar",
+				"mar	CSS - margin: 0;"
+			],
+			[
+				"ses",
+				"session_start"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"pa",
+				"pad	CSS - padding: 0;"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"month",
+				"months"
+			],
+			[
+				"mon",
+				"month"
+			],
+			[
+				"tut",
+				"tuts_sites"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"sh",
+				"show-items"
+			],
+			[
+				"remove",
+				"removeItem"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"non",
+				"none"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"ma",
+				"ma	hello"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"bo",
+				"both"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"it",
+				"ita	CSS - font-style: italic;"
+			],
+			[
+				"san",
+				"sans-serif"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"f",
+				"font-variant"
+			],
+			[
+				"wi",
+				"white"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"arg",
+				"argumentsLength"
+			],
+			[
+				"ar",
+				"argumentsLength"
+			],
+			[
+				"my",
+				"myString"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"REMOV",
+				"Package Control: Remove Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"REMO",
+				"Package Control: Remove Package"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"PACKA",
+				"Package Control: Remove Package"
+			],
+			[
+				"PACK",
+				"Package Control: Discover Packages"
+			],
+			[
+				"JAV",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"EMME",
+				"Set Syntax: Emmet"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn",
+				"Set Syntax: PHP"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"disa",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"crea",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"creat",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gust",
+				"Gist: Create Public Gist"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"snipp",
+				"Snippet: <?php echo htmlentities(…) ?>"
+			],
+			[
+				"syntax p",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"snippet jq",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: Function"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"snippet",
+				"Snippet: Function"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"syntax te",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: Java"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			]
+		],
+		"width": 418.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/simona/Downloads/treehouse/html-and-css-css-data-types/index.html",
+		"/home/simona/Downloads/treehouse/fundamentals-css-basic-selectors/fundamentals-css-basic-selectors/index.html",
+		"/home/simona/Downloads/treehouse/pseudo-classes/index1.html",
+		"/home/simona/Downloads/treehouse/pseudo-classes/style1.css",
+		"/home/simona/Downloads/treehouse/more-selectors/index1.html",
+		"/home/simona/Downloads/treehouse/more-selectors/style1.css",
+		"/home/simona/Downloads/treehouse/basic-selectors/index1.html",
+		"/home/simona/Downloads/treehouse/basic-selectors/style1.css",
+		"/home/simona/Downloads/treehouse/CSS-DD-adding-css-to-page/adding-css-to-page/style1.css",
+		"/home/simona/Downloads/treehouse/CSS-DD-adding-css-to-page/adding-css-to-page/more-styles1.css",
+		"/home/simona/Downloads/treehouse/CSS-DD-adding-css-to-page/adding-css-to-page/index.html",
+		"/home/simona/Downloads/treehouse/CSS-DD-adding-css-to-page/adding-css-to-page/index1.html",
+		"/home/simona/Downloads/HTML-Forms-TextAreas-And-Selects/form02.html",
+		"/home/simona/Downloads/HTML-Forms-Inputs.html/form01.html",
+		"/home/simona/Downloads/HTML-Forms-Fieldsets-And-Labels/form03.html",
+		"/home/simona/Downloads/HTML-Tables-Rows-And-Columns.html/table01.html",
+		"/home/simona/Downloads/HTML-Tables-Headers-And-Footers.html/table02.html",
+		"/home/simona/Downloads/HTML-Objects-iFrames/objects/index.html",
+		"/home/simona/Downloads/HTML-Objects-Images/index.html",
+		"/home/simona/Downloads/HTML-Objects-Images/images/index.html",
+		"/home/simona/Downloads/HTML-Objects-iFrames/objects/another_page.html",
+		"/home/simona/Downloads/objects02.html",
+		"/home/simona/Downloads/HTML-Links-Anchors/links/index.html",
+		"/home/simona/Downloads/HTML-Links-Websites/links/my_folder/another_page.html",
+		"/home/simona/Downloads/HTML-Links-Websites/links/index.html",
+		"/home/simona/Downloads/HTML-Lists-DefinitionLists/lists02.html",
+		"/home/simona/Downloads/HTML-Lists-OrderedAndUnordered/lists01.html",
+		"/home/simona/Downloads/treehouse/websitewaters-island01-stage04-code/index1.html",
+		"/home/simona/Downloads/treehouse/websitewaters-island01-stage04-code/css/style1.css",
+		"/home/simona/Downloads/HTML-Fundamentals-GlobalStructure/index.html",
+		"/home/simona/Downloads/treehouse/websitewaters-island01-stage03/index1.html",
+		"/home/simona/Downloads/treehouse/websitewaters-island01-stage03/css/grid.css",
+		"/home/simona/Downloads/websitewaters-island01-stage02/index1.html",
+		"/var/www/treehouse/index.html",
+		"/home/simona/Downloads/websitewaters-island01-stage02/index.html",
+		"/var/www/index.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/06_Dealing_with_Multiple-Choice_Form_Fields/select-menu/form.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/06_Dealing_with_Multiple-Choice_Form_Fields/multiple-choice_list/form.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/05_Emailing_the_Contents_of_an_Online_Form/send_mail/end/includes/mail_process.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/05_Emailing_the_Contents_of_an_Online_Form/send_mail/begin/includes/mail_process.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/05_Emailing_the_Contents_of_an_Online_Form/send_mail/end/form.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/05_Emailing_the_Contents_of_an_Online_Form/send_mail/end/thanks.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/06_Dealing_with_Multiple-Choice_Form_Fields/radio_buttons/end/form.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/06_Dealing_with_Multiple-Choice_Form_Fields/checkbox_group/end/form.php",
+		"/media/simona/storage/code/php/learn php/general.js",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/05_Emailing_the_Contents_of_an_Online_Form/preserve_user_input/end/form.php",
+		"/var/www/preserve_user_input/form.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/05_Emailing_the_Contents_of_an_Online_Form/preserve_user_input/form.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/05_Emailing_the_Contents_of_an_Online_Form/required_fields/form.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/05_Emailing_the_Contents_of_an_Online_Form/required_fields/begin/form.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/05_Emailing_the_Contents_of_an_Online_Form/required_fields/end/form.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/05_Emailing_the_Contents_of_an_Online_Form/error_messages/begin/form.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/05_Emailing_the_Contents_of_an_Online_Form/error_messages/end/form.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/05_Emailing_the_Contents_of_an_Online_Form/get_and_post/end/form.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/05_Emailing_the_Contents_of_an_Online_Form/get_and_post/begin/form.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/04_Functions_Objects_and_Errors/error_headers2.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/04_Functions_Objects_and_Errors/error_headers1.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/04_Functions_Objects_and_Errors/includes/somefile.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/04_Functions_Objects_and_Errors/error_encapsed.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/04_Functions_Objects_and_Errors/error_missing-brace.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/04_Functions_Objects_and_Errors/error-semicolon.php",
+		"/media/simona/storage/code/php/learn php/objects.js",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/04_Functions_Objects_and_Errors/objects.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/04_Functions_Objects_and_Errors/pass_by_reference.php",
+		"/var/www/functions/includes/paragraph.html",
+		"/var/www/functions/include.php",
+		"/var/www/functions/require.php",
+		"/media/simona/storage/code/php/learn php/functions.js",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/04_Functions_Objects_and_Errors/require.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/04_Functions_Objects_and_Errors/include.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/04_Functions_Objects_and_Errors/custom_function.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/04_Functions_Objects_and_Errors/built-in3.php",
+		"/media/simona/storage/code/php/learn php/strings.js",
+		"/media/simona/storage/code/php/learn php/loops.js",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/04_Functions_Objects_and_Errors/built-in2.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/04_Functions_Objects_and_Errors/built-in1.php",
+		"/media/simona/storage/code/php/learn php/arrays.js",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/03_Using_Control_Structures_and_Loops/foreach_key-value.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/03_Using_Control_Structures_and_Loops/foreach_value.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/03_Using_Control_Structures_and_Loops/for_loop.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/03_Using_Control_Structures_and_Loops/do-while_loop.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/03_Using_Control_Structures_and_Loops/while_loop.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/03_Using_Control_Structures_and_Loops/switch.php",
+		"/media/simona/storage/code/php/learn php/conditionals.js",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/03_Using_Control_Structures_and_Loops/ternary.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/03_Using_Control_Structures_and_Loops/conditions.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/02_PHP_Basics/arrays.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/02_PHP_Basics/calculations.php",
+		"/media/simona/storage/code/php/learn php/operators.js",
+		"/media/simona/storage/code/php/learn php/variables.js",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/02_PHP_Basics/joining_strings2.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/02_PHP_Basics/joining_strings1.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/02_PHP_Basics/display_values.php",
+		"/media/simona/storage/code/php/Video2Brain. Introducing PHP/Project_Files/01_Setting_Up_a_PHP_Development_Environment/config.php",
+		"/var/www/file-functions/index.php",
+		"/media/simona/storage/code/php/TutsPlus - PHP Fundamentals/Project Files/file-functions/file-functions/index.php",
+		"/media/simona/storage/code/php/TutsPlus - PHP Fundamentals/Project Files/counter/index.php",
+		"/var/www/counter.txt",
+		"/var/www/index.tmpl.php",
+		"/home/simona/.config/sublime-text-2/Packages/User/html.sublime-snippet",
+		"/media/simona/storage/code/php/TutsPlus - PHP Fundamentals/Project Files/cookies/font.php",
+		"/var/www/font.php",
+		"/media/simona/storage/code/php/TutsPlus - PHP Fundamentals/Project Files/cookies/index.php",
+		"/media/simona/storage/code/php/learn php/cookies.js",
+		"/var/www/sessions/login.php",
+		"/media/simona/storage/code/php/TutsPlus - PHP Fundamentals/Project Files/sessions-refactoring/login.php",
+		"/var/www/sessions/index.php",
+		"/media/simona/storage/code/php/TutsPlus - PHP Fundamentals/Project Files/sessions-refactoring/admin.php",
+		"/var/www/sessions/admin.php",
+		"/var/www/sessions/config.php",
+		"/media/simona/storage/code/php/TutsPlus - PHP Fundamentals/Project Files/sessions-refactoring/functions.php",
+		"/var/www/sessions/functions.php",
+		"/media/simona/storage/code/me/sublime",
+		"/var/www/about.php",
+		"/var/www/login.php",
+		"/media/simona/storage/code/php/TutsPlus - PHP Fundamentals/Project Files/sessions/login.php",
+		"/var/www/logout.php",
+		"/var/www/admin.php",
+		"/var/www/$_post.php",
+		"/var/www/index1.php",
+		"/media/simona/storage/code/php/TutsPlus - PHP Fundamentals/Project Files/$_post/index.php",
+		"/media/simona/storage/code/php/TutsPlus - PHP Fundamentals/Project Files/super-globals/index.php",
+		"/media/simona/storage/code/php/learn php/heredocs.js",
+		"/media/simona/storage/code/php/learn php/numbers.js",
+		"/media/simona/storage/code/php/TutsPlus - PHP Fundamentals/Project Files/printf/index.php",
+		"/media/simona/storage/code/php/TutsPlus - PHP Fundamentals/Project Files/objects/index.php",
+		"/media/simona/storage/code/php/TutsPlus - PHP Fundamentals/Project Files/loops/index.php",
+		"/media/simona/storage/code/php/TutsPlus - PHP Fundamentals/Project Files/functions/index.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gett",
+			"value",
+			"username",
+			"Password",
+			"password",
+			"Username",
+			"username",
+			"TXT",
+			"EOT",
+			"h1",
+			"include",
+			"\n",
+			"psd",
+			"display_erro",
+			"error_repo",
+			"error_re[",
+			"display_er",
+			"hours",
+			"item",
+			"title",
+			"items",
+			"show-items",
+			"();",
+			">",
+			"();\n",
+			"5",
+			"in",
+			"dot",
+			"file",
+			"\n",
+			"gutter",
+			"zipRegex",
+			"var",
+			"clos",
+			"stri",
+			"prede",
+			"excep",
+			"contin",
+			"break",
+			"       \n",
+			"sortable",
+			"sortabl",
+			"add",
+			"addb",
+			"end",
+			"add",
+			"first",
+			"}",
+			"parse",
+			"ready",
+			"compl",
+			"succ",
+			"each",
+			"json",
+			"ajax",
+			"anima",
+			"next",
+			"first",
+			"sibling",
+			"find",
+			"parent",
+			"seti",
+			"something",
+			"repl",
+			"argum",
+			"fadeou",
+			"prepen",
+			"insertBefore",
+			"after",
+			"before",
+			"attr",
+			"text",
+			"each",
+			"getJ",
+			"datep",
+			"prev",
+			"tabs",
+			"show",
+			"hide",
+			"back",
+			"call",
+			"type",
+			"index",
+			"h4",
+			"img",
+			"imag",
+			"importa",
+			"list-st",
+			"social",
+			"list-style",
+			"list",
+			"li",
+			"smit",
+			"john",
+			"smith",
+			"john",
+			"light",
+			"fancy",
+			"lightb",
+			"ligh",
+			"url",
+			"p",
+			"com",
+			"lightb",
+			";\n",
+			"h2",
+			"Reading",
+			"Chess",
+			"Development",
+			"p",
+			"<!DOCTYPE html>",
+			"elm",
+			" );",
+			"myString",
+			"alert",
+			"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"style.css",
+				"todo/css/style.css"
+			],
+			[
+				"file",
+				"/home/simona/.config/sublime-text-2/Packages/User/Preferences.sublime-settings"
+			],
+			[
+				"",
+				"cv/README.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true
+}
